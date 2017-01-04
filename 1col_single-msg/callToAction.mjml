@@ -1,6 +1,0 @@
-<mj-section mj-class="cta-section">
-		<mj-column mj-class="content-width">
-			<mj-text mj-class="cta-heading">Ready to crush shit?</mj-text>
-			<mj-button mj-class="button">Get Started</mj-button>
-		</mj-column>    
-	</mj-section>

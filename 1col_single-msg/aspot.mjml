@@ -1,6 +1,0 @@
-<!-- Simple text-only aspot hero section-->
-<mj-section mj-class="aspot-section">
-	<mj-column mj-class="content-width">
-		<mj-text mj-class="aspot-heading">Hello! Welcome Home.</mj-text>
-	</mj-column>
-</mj-section>
