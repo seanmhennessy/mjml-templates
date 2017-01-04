@@ -1,0 +1,14 @@
+<mj-section>
+	<mj-column>
+		<mj-social
+		mode="horizontal"
+		align="left"
+		text-mode="false"
+		display="c-google c-facebook c-twitter c-linkedin"
+		c-google-icon-color=""
+		c-facebook-icon-color=""
+		c-facebook-href="https://www.facebook.com/facebook"
+		c-google-href="https://www.google.com/" 
+		padding="15px" />
+	</mj-column>
+</mj-section>

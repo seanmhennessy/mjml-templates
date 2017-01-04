@@ -1,0 +1,6 @@
+<!-- A content module used for displaying minimal branding. -->
+<mj-section mj-class="pretext-section">
+	<mj-column mj-class="content-width">
+		<mj-image mj-class="brand-logo" />
+	</mj-column>
+</mj-section><mj-raw><!-- End Pretext --></mj-raw>

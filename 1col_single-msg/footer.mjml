@@ -1,0 +1,13 @@
+<mj-section mj-class="footer">
+	<mj-column mj-class="footer-col">
+		<mj-text mj-class="footer-nap"><strong>Abiznues Name</strong><br/>23 Moonview Lane<br/>Lunar Lake, The Moon 13337</mj-text>
+	</mj-column>
+</mj-section>
+<mj-section mj-class="footer-sub">
+	<mj-column mj-class="subtext-col">
+	    <mj-text mj-class="footer-subtext">Newsletter Issue 301 has been delivered to your inbox as a member of our Awesome List, that you subscribed to on our website. Feel free to opt out of future messages: <a href="#" class="subtext-link">unsubscribe now</a>.</mj-text>
+	</mj-column>
+	<!-- <mj-column mj-class="subtext-col">
+	    <mj-divider mj-class="blnk-divider" />
+	</mj-column> -->
+</mj-section>
